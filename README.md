@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on some good project.
 - 📫 How to reach me :
 - Email : nikhilrajcse2023@gmail.com
-- Linkedin : nikhil-raj-232ba9206.
+- Linkedin : https://www.linkedin.com/in/nikhil-raj-232ba9206/
 
 <!---
 LazyCoder3001/LazyCoder3001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
