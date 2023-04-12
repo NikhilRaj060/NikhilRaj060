@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LazyCoder3001
+- 👋 Hi, I’m @NikhilRaj060
 - 👀 I’m interested in Web Developement.
 - 🌱 I’m currently learning React Js
 - 💞️ I’m looking to collaborate on some good project.
