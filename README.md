@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilRaj060
-- 👀 I’m interested in Web Developement.
-- 🌱 I’m currently learning React Js
+- 💻 Development Engineer at Prospecta Software.
+- 🌱 I’m currently working on Angular Js , Rest API , Spring Boot , Microservices.s
 - 💞️ I’m looking to collaborate on some good project.
 - 📫 How to reach me :
 - Email : nikhilrajcse2023@gmail.com
