@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React.js , Angular**
+- 💬 Ask me about **React.js , Next js , Angular**
 
 - 📫 How to reach me **nikhilrajcse2023@gmail.com**
 
