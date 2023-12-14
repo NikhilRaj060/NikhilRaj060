@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/nikhilr2061" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilr2061?logo=twitter&style=for-the-badge" alt="nikhilr2061" /></a> </p>
 
-- 🔭 I’m currently working on [Work Manager](https://github.com/NikhilRaj060/work-manager)
+- 🔭 I’m currently working on [Median Blog](https://github.com/NikhilRaj060/MedianBlog)
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **React.js , Next js , Angular**
+- 💬 Ask me about **Next js , React.js , Angular**
 
 - 📫 How to reach me **nikhilrajcse2023@gmail.com**
 
