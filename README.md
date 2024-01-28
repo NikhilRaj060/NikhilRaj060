@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nikhilrajcse2023@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PRvdPuKTrCB6JKB495D1oYV-9HanvmK2/view?usp=sharing](https://drive.google.com/file/d/1PRvdPuKTrCB6JKB495D1oYV-9HanvmK2/view?usp=sharing)
+- 📄 Know about my experiences [Nikhil_Raj_Resume](https://drive.google.com/file/d/1PRvdPuKTrCB6JKB495D1oYV-9HanvmK2/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm too open to talk on #techTalk in funny way.**
 
