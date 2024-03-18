@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Median Blog](https://github.com/NikhilRaj060/MedianBlog)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **Next js , React.js , Angular**
 
